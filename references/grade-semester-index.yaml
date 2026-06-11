@@ -1,0 +1,113 @@
+version: "2.0"
+说明: |
+  北师大小学数学 12 册统一索引（1上–6下）。
+  唯一 manifest 入口：references/manifests/manifest-keep-{册}.txt
+  重建脚本：scripts/rebuild_manifests.py（直接扫 f:/xhs_transcripts，含内容审查）
+
+transcripts_root: f:/xhs_transcripts
+skill_root: e:/老师skill/xiaotaiyang-teaching-method
+rebuild_script: e:/老师skill/xiaotaiyang-teaching-method/scripts/rebuild_manifests.py
+manifest_dir: e:/老师skill/xiaotaiyang-teaching-method/references/manifests
+reject: e:/老师skill/xiaotaiyang-teaching-method/references/manifests/manifest-reject.txt
+preview: e:/老师skill/xiaotaiyang-teaching-method/references/manifests/manifest-preview.txt
+audit_csv: e:/老师skill/xiaotaiyang-teaching-method/references/prescan/manifest-full.csv
+
+volumes:
+  1上:
+    key: 1shang
+    manifest: references/manifests/manifest-keep-1shang.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.1上
+    默认安全等级: 绿
+
+  1下:
+    key: 1xia
+    manifest: references/manifests/manifest-keep-1xia.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.1下
+    默认安全等级: 绿
+
+  2上:
+    key: 2shang
+    manifest: references/manifests/manifest-keep-2shang.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.2上
+    默认安全等级: 绿
+
+  2下:
+    key: 2xia
+    manifest: references/manifests/manifest-keep-2xia.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.2下
+    默认安全等级: 绿
+
+  3上:
+    key: 3shang
+    manifest: references/manifests/manifest-keep-3shang.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.3上
+    默认安全等级: 绿
+
+  3下:
+    key: 3xia
+    manifest: references/manifests/manifest-keep-3xia.txt
+    boundary: 教学知识库/知识树和知识/课时知识点边界分析/3下
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.3下
+    默认安全等级: 绿
+
+  4上:
+    key: 4shang
+    manifest: references/manifests/manifest-keep-4shang.txt
+    boundary: 教学知识库/知识树和知识/课时知识点边界分析/4上
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.4上
+    默认安全等级: 绿
+
+  4下:
+    key: 4xia
+    manifest: references/manifests/manifest-keep-4xia.txt
+    boundary: 教学知识库/知识树和知识/课时知识点边界分析/4下
+    duizhao_table: 教学知识库/知识树和知识/北师大四下(老版)_人教版课时对照与备课要点.md
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml
+    版本: 老版
+    默认安全等级: 按单元绿/黄/红
+    边界摘要: references/research/05-grade-boundaries.md
+
+  5上:
+    key: 5shang
+    manifest: references/manifests/manifest-keep-5shang.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.5上
+    默认安全等级: 黄
+    边界摘要: references/research/05-grade-boundaries.md
+    蒸馏摘要: references/research/06-grade5-distill.md
+
+  5下:
+    key: 5xia
+    manifest: references/manifests/manifest-keep-5xia.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.5下
+    默认安全等级: 黄
+
+  6上:
+    key: 6shang
+    manifest: references/manifests/manifest-keep-6shang.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.6上
+    默认安全等级: 黄
+    蒸馏摘要: references/research/07-grade6-distill.md
+
+  6下:
+    key: 6xia
+    manifest: references/manifests/manifest-keep-6xia.txt
+    boundary: null
+    duizhao_rules: references/duizhao/duizhao-rules-4xia.yaml#coarse_rules.6下
+    默认安全等级: 黄
+
+蒸馏入库协议: references/ingest-protocol.md
+
+lookup_order:
+  - 读 grade-semester-index.yaml 定位当前册 manifest
+  - 读 boundary YAML（若有）
+  - 人教/小太阳进度≠北师大 → 查 duizhao_rules
+  - 冲突时以北师大 boundary 的 later 为准
+  - 逐字稿蒸馏/1446增量 → 必读 ingest-protocol.md，写入 ingest-registry.yaml

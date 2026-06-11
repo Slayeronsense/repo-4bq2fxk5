@@ -1,0 +1,142 @@
+# 表征整合层 v2.1 · 一条主链 + 两个分支 + 双模式
+# 用法：Step 1.3 换表示时 @read 本文件
+
+# ── 双模式：CRA/Lesh 何时查表、何时推理 ─────────────────────────
+# 有先例 → lookup（小太阳画法 / 06 库）主决策，CRA/Lesh 记账
+# 没先例 → CRA/Lesh 主决策，画法/通道从推理里长出来
+cra_lesh_mode:
+  快路径:
+    when:
+      - registry 高相似命中
+      - xt_diagram_rules trigger 命中（应用题/几何）
+      - 06 库有对应 R06 条目（概念课）
+    cra_lesh: 用 routing 的 cra_default / lesh_default，不主动推理
+    primary_lookup: xt_diagram_rules 或 wiki_channels
+  慢路径:
+    when:
+      - registry 未命中
+      - xt_diagram_rules trigger 未命中
+      - 06 库无 R06 条目
+      - Step 2 题型无匹配
+      - 生长协议触发
+    cra_lesh: 主动推理（见 slow_path_reasoning）
+    primary_lookup: 由 CRA+Lesh 推理产出 xt_diagram / channel_ref
+
+slow_path_reasoning:
+  order:
+    - "CRA：定深度——需 C（实物/操作）吗？能直 A 吗？默认从 R 起步"
+    - "Lesh：定表征链——走哪几类、什么顺序（应用题不从「情境」起步）"
+    - "由 Lesh「图画」推导 xt_diagram，并过 trap_checks"
+    - "概念课：再由 CRA C 段 + Lesh「实物」推导 channel_ref 候选"
+  by_scene:
+    应用题:
+      cra_question: 关系是否陌生？学生需图示建模还是可直列式？
+      lesh_question: 语言关系句 → 哪种图画 → 符号列式？
+      output: xt_diagram 由推理产出；channel_ref 无
+    概念课:
+      cra_question: 新概念还是巩固？需实物操作吗？
+      lesh_question: 实物 → 图画 → 符号，哪段要加重？
+      output: channel_ref 候选；xt_diagram 可选
+    几何画图:
+      cra_question: 需操作演示还是直接图示？
+      lesh_question: 语言描述图形关系 → 作图 → 公式
+      output: xt_diagram 由推理产出
+    纯运算:
+      cra_question: 学生是否缺算理？缺则补 R，不缺直 A
+      lesh_question: 符号为主；必要时补语言口诀
+      output: xt_diagram 无；channel_ref 无
+
+# ── 路由：先判题型场景，再走不同分支 ─────────────────────────────
+routing:
+  应用题:
+    when: 有具体数量关系的文字题、应用情境求算式
+    primary: xt_diagram_rules
+    cra_default: R → A
+    lesh_default: 语言 → 图画 → 符号
+    channel_ref: 无
+  概念课:
+    when: 讲某一数学概念算理，且 06 库有对应 R06 条目
+    primary: wiki_channels
+    cra_default: C → R → A
+    lesh_default: 实物 → 图画 → 符号
+    xt_diagram: 可选
+  几何画图:
+    when: 图形、面积、作图类
+    primary: xt_diagram_rules
+    cra_default: R → A
+    lesh_default: 语言 → 图画 → 符号
+    channel_ref: 无
+  纯运算:
+    when: 简便运算、竖式、巧算，无情境画图
+    primary: none
+    cra_default: A
+    lesh_default: 符号
+    channel_ref: 无
+
+# ── 段 1：CRA 深度档位（只描述阶段，不写具体图名） ───────────────
+cra_stages:
+  C:
+    name: 具体
+    when: 新概念首次接触、需实物/操作建立算理
+  R:
+    name: 图示
+    when: 关系理清后图示建模
+  A:
+    name: 抽象
+    when: 图示已建立，进入列式/方程
+
+# ── 段 2：Lesh 五类（应用题默认不从「情境」起步） ───────────────
+lesh_types:
+  manipulative: 实物
+  situational: 情境故事
+  verbal: 语言
+  pictorial: 图画
+  symbolic: 符号
+
+lesh_defaults:
+  应用题: 语言 → 图画 → 符号
+  概念课: 实物 → 图画 → 符号
+  几何画图: 语言 → 图画 → 符号
+  纯运算: 符号
+
+# ── 段 3：小太阳关系→画法（应用题主决策） ─────────────────────
+xt_diagram_rules:
+  - trigger: {关系: [关系不清], 量: [份数型, 总量型]}
+    diagram: 线段图
+  - trigger: {关系: [组成不清, 和差倍]}
+    diagram: 分区图（条形分区、左右并列）
+  - trigger: {关系: [同步变化, 混合组成], 量: [混合型, 变化型]}
+    diagram: 左右分区图
+    trap: 禁止上下分层暗示先后顺序
+    example: 一半果汁一半水，喝掉一半
+  - trigger: {关系: [前后变化, 过程不清]}
+    diagram: 前后对比图
+  - trigger: {关系: [对应不清]}
+    diagram: 表格
+  - trigger: {关系: [倍数不清], 量: [份数型]}
+    diagram: 份数图/线段图
+  - trigger: {关系: [变化不清]}
+    diagram: 箭头图
+  - trigger: {关系: [重叠不清]}
+    diagram: 集合/阴影图
+
+trap_checks:
+  - pattern: 上下分层画混合液
+    fix: 改左右分区，表示同步变化
+  - pattern: 线段图份数与题意不符
+    fix: 重读题，调整每段对应量
+
+# ── 段 4：06 库索引（概念课主决策） ─────────────────────────────
+wiki_channels:
+  path: e:/下学期数学教学_Wiki/wiki/assets/06_概念表征库.md
+  when: routing=概念课 且 06 库有 R06 条目
+  channel_ref_format: "R06-{概念}-{通道}"
+
+# ── 输出字段 ─────────────────────────────────────────────────────
+output_fields:
+  - 场景
+  - cra_lesh_mode          # 快路径 | 慢路径
+  - cra_path
+  - lesh_path
+  - xt_diagram
+  - channel_ref

@@ -1,0 +1,34 @@
+{
+  "total": 368,
+  "no_prefix": 143,
+  "reject_files": 102,
+  "hint_tags": {
+    "无年级前缀": 143,
+    "三下": 5,
+    "五上": 88,
+    "四上": 93,
+    "四下": 39,
+    "四升五预习": 20,
+    "寒假预习": 16
+  },
+  "content_types": {
+    "其他": 89,
+    "vlog生活": 4,
+    "教学": 207,
+    "思维拓展": 75,
+    "期末复习": 52,
+    "预习": 37
+  },
+  "manifest": {
+    "keep-34grade": 236,
+    "未分类": 1,
+    "keep-5grade|reject": 79,
+    "reject": 15,
+    "keep-5grade|keep-6grade|reject": 8,
+    "keep-34grade|keep-6grade": 4,
+    "keep-5grade|preview": 20,
+    "keep-34grade|keep-5grade": 3,
+    "preview": 2
+  },
+  "unclassified": 1
+}

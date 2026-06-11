@@ -1,0 +1,1447 @@
+﻿filename,bucket,grade_semester,renjiao_hint,safety,beishida_unit,confidence,rule_id,audit_note,chars
+6714118419555405059.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+6714489308008418572.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+6782533231821557004.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+6789058438350589195.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+6789228686731218180.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",174
+6789593616751807747.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+6790330214980291844.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",167
+6815063141362273540.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+6815430650175311116.md,shell,,,N/A,,high,shell-empty,空壳遗留,163
+7034350328522788099.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",433
+7034760114204658981.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",747
+7035440678125587726.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",543
+7035571342988659976.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",187
+7035819939072199949.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",434
+7035995173356195109.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",1071
+7036255414312373511.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",704
+7036297963076914446.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",590
+7036370677707967780.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",695
+7036523170148437255.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",741
+7036608390461738247.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",542
+7036631857387064606.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",722
+7036924442328468744.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",495
+7036932114016636167.md,keep,4上,内容审查→4上（得分11·六上簇）,黄,二_认识三角形和四边形（图形性质·跨册）,high,content-audit-douyin,"top_scores={'4shang': 11, '4xia': 6, '6shang': 5}",583
+7036976598221851940.md,keep,4上,内容审查→4上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 5, '1shang': 0}",651
+7037100745711209742.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",586
+7037256486510169375.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",565
+7037328316549909790.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1301
+7037346725111188772.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",481
+7037643338094267678.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '2shang': 1, '6shang': 1}",610
+7037692145481813284.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",546
+7037718133922188552.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",681
+7037877566602104101.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",889
+7038088262124064031.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",930
+7038091228562345253.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",519
+7038159054363053320.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",553
+7038162275261385991.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",185
+7038377319127436581.md,keep,4上,内容审查→4上（得分11·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '6shang': 5, '3shang': 4}",898
+7038440856138911012.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",709
+7038539753590983950.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1056
+7038573291036003615.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1447
+7038744565066501390.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1019
+7038826929490906404.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",581
+7038921813086260512.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",848
+7039121965751340325.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",2068
+7039165294996098340.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",476
+7039305714367483166.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",942
+7039327854164856077.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",581
+7039342125288279335.md,keep,4上,内容审查→4上（得分7·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '4xia': 5, '6shang': 1}",1280
+7039511156960038151.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",620
+7039545376923208998.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",551
+7039611061561036043.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3xia': 1, '4xia': 1}",600
+7039718113369230625.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",448
+7039925956672294180.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1xia': 1}",2897
+7039933600002739494.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",655
+7039946075620396321.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",182
+7040066833948380453.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",337
+7040226806451997991.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '1shang': 0}",484
+7040332516057828616.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",320
+7040405117459270915.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1355
+7040598003861769502.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1374
+7040623410820533542.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",420
+7040700233134656801.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",613
+7040961715537841446.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",484
+7041023458502872333.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '1shang': 0, '1xia': 0}",683
+7041037489724771596.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",189
+7041108726689959182.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",197
+7041173544323140872.md,keep,4上,内容审查→4上（得分6·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '6shang': 1}",513
+7041386802422287624.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '3shang': 4, '3xia': 1}",961
+7041388171933895975.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",464
+7041389354262088963.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",643
+7041793793066077447.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",489
+7041835350569782565.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",377
+7042162005800668449.md,keep,1下,内容审查→1下（得分1）,绿,,low,content-audit-douyin,"top_scores={'1xia': 1, '1shang': 0, '2shang': 0}",1471
+7042163897414978853.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",892
+7042172784004402465.md,shell,,,N/A,,high,shell-empty,空壳遗留,160
+7042312716148641035.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",486
+7042556817737600288.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1xia': 1, '2shang': 1}",1621
+7042564759106899232.md,keep,4上,内容审查→4上（得分11·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '1shang': 0, '1xia': 0}",587
+7042846662384979233.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",555
+7043380898837941517.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",903
+7043644667086310693.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",461
+7044301282210794765.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",480
+7044317087933746462.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1xia': 1, '1shang': 0}",1308
+7044729251215527204.md,shell,,,N/A,,high,shell-empty,空壳遗留,160
+7044732552657014049.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",999
+7045198381274156326.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",286
+7046218474774957343.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",228
+7047297988380642573.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",364
+7052706954120088862.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",187
+7063403021404785959.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",479
+7063705135930805512.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",348
+7063812109515099430.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",369
+7064445190076894496.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",388
+7064490777686101287.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",447
+7064764301826886943.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",490
+7145057108583517454.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",170
+7145276536420093191.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",450
+7145304105940978982.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",211
+7145319535585873189.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",229
+7145696476805516557.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",294
+7146195355896483080.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",226
+7147917841793174815.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",184
+7148669955603483941.md,shell,,,N/A,,high,shell-empty,空壳遗留,141
+7148680753235250445.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",313
+7151383482680347918.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",205
+7151937670405442853.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",212
+7158053079798025508.md,shell,,,N/A,,high,shell-empty,空壳遗留,165
+7158385924240461086.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",176
+7158801246084746500.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",609
+7159215971259927820.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",246
+7160479853710527781.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7160656634337955086.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",226
+7161786640799681806.md,shell,,,N/A,,high,shell-empty,空壳遗留,143
+7162482878595616003.md,shell,,,N/A,,high,shell-empty,空壳遗留,148
+7162777754197314847.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7163236043938860302.md,shell,,,N/A,,high,shell-empty,空壳遗留,140
+7163273352717585677.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7163628342166572325.md,shell,,,N/A,,high,shell-empty,空壳遗留,149
+7163656314739035400.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7164018102357740836.md,shell,,,N/A,,high,shell-empty,空壳遗留,147
+7164397286355717406.md,shell,,,N/A,,high,shell-empty,空壳遗留,147
+7164679123632147742.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7165432314615303463.md,shell,,,N/A,,high,shell-empty,空壳遗留,141
+7165752958997548291.md,shell,,,N/A,,high,shell-empty,空壳遗留,140
+7165772129349405983.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7166129786337758471.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",469
+7166491889577823519.md,shell,,,N/A,,high,shell-empty,空壳遗留,136
+7166513218188217603.md,shell,,,N/A,,high,shell-empty,空壳遗留,140
+7167312281804623134.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1959
+7167333214464462088.md,shell,,,N/A,,high,shell-empty,空壳遗留,143
+7167648779938647333.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '3shang': 1}",2009
+7167741104660565261.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '6shang': 1, '1shang': 0}",1512
+7167988008258456839.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",429
+7168017693692415244.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",913
+7168441572604890375.md,shell,,,N/A,,high,shell-empty,空壳遗留,147
+7168477409157762334.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",868
+7168691852126752038.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",468
+7168766894059703559.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",502
+7168787547663895822.md,shell,,,N/A,,high,shell-empty,空壳遗留,142
+7169061687784377631.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",378
+7169110549265992996.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",368
+7169410884152937736.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",581
+7169427028138085662.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,470
+7169571205622648071.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",590
+7169753952429346056.md,shell,,,N/A,,high,shell-empty,空壳遗留,165
+7169797397885881638.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",501
+7169838971873234183.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",423
+7169878571530407181.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7170145858275593503.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",393
+7170152911417167108.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",356
+7170264162734476574.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",184
+7170518783986044164.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",406
+7170563067393150221.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",459
+7171712045824363784.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",170
+7171744816382872846.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,3103
+7172025775271546148.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2849
+7179101026207698213.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",369
+7179123814024940857.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",332
+7179473139049565496.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",369
+7179480995824012605.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",418
+7181317904095366457.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",351
+7181320970899131705.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",708
+7185462770077404473.md,keep,2上,内容审查→2上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'2shang': 2, '6shang': 1, '1shang': 0}",1251
+7185469740494687549.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1338
+7185535610210241850.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2023
+7185837484943740215.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",852
+7185889579424075041.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '3shang': 4, '3xia': 1}",961
+7186287894234025272.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",646
+7194307608776363322.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",250
+7194328633450794299.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",898
+7196167102405856570.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '2shang': 2, '6shang': 1}",1830
+7196222917758192933.md,shell,,,N/A,,high,shell-empty,空壳遗留,155
+7196904933118070074.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",177
+7197040807524797751.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",202
+7198148511030922557.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",610
+7198363100028882236.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",170
+7198460414479404345.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",533
+7199246479385578789.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",506
+7199503721414331685.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",1142
+7200213093727653180.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",502
+7200216663139110201.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",553
+7200588019022236931.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",579
+7200956479766105376.md,keep,3下,内容审查→3下（得分4·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 4, '1shang': 0, '1xia': 0}",477
+7200961204397870368.md,shell,,,N/A,,high,shell-empty,空壳遗留,155
+7201671009433324858.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",631
+7202037521008594213.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7202096804874292517.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",488
+7202173288762625338.md,keep,4下,内容审查→4下（得分6·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 6, '3xia': 5, '4shang': 5}",1196
+7202207830919712057.md,shell,,,N/A,,high,shell-empty,空壳遗留,165
+7202449448654409016.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '6shang': 1, '1shang': 0}",613
+7202809347221605693.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1484
+7202812921380998456.md,shell,,,N/A,,high,shell-empty,空壳遗留,164
+7202822444544019745.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",771
+7202842593233734972.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7203179207441173818.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",691
+7203188567097494841.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7203549609858223418.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",222
+7203574855755746620.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",198
+7203584399118454028.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '2shang': 1, '2xia': 1}",802
+7203642962163535159.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",767
+7203646074131713341.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",203
+7203915974112726331.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1023
+7204672620971691319.md,shell,,,N/A,,high,shell-empty,空壳遗留,155
+7204687644138294588.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",708
+7204714031960034616.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",203
+7205038941735619896.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",826
+7205194932167003448.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",662
+7205413134725549373.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",743
+7205445694512024889.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",470
+7205562034774183205.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",664
+7205796383679352122.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",725
+7206155401463598397.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",713
+7206590405406706999.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",667
+7206927214552567095.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",649
+7207227315950980389.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",170
+7207235986747608375.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",362
+7207282296586652965.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",785
+7207397506349632805.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",660
+7207639369216167224.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",629
+7208013272975559973.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",666
+7208136676890201400.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",709
+7208370683515129145.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",203
+7208382258590272824.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",919
+7208467098786401591.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",509
+7208515090193108261.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",523
+7208778235679624505.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",603
+7208800943159266615.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",304
+7209075510553349409.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",641
+7209442800264334603.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '2shang': 1, '5shang': 1}",1075
+7209534205976448313.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",555
+7209984127393729796.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",356
+7210005710963330342.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",261
+7210189883061587237.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",387
+7210357255294733623.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",504
+7210562606833143100.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",499
+7210917941477395770.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",700
+7211049431267822886.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",449
+7211137055089265976.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",397
+7211288792299212065.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",445
+7211387027709791543.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",514
+7211705688790273317.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",579
+7211806517681605943.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '2shang': 1, '1shang': 0}",671
+7212050057271561504.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",384
+7212158531145911590.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",389
+7212414204458847548.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 4, '5shang': 1}",717
+7212507060871646520.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",600
+7212761164877516093.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",764
+7212919963634486583.md,keep,4上,内容审查→4上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 5}",534
+7213141526501772599.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",501
+7213221341934161210.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",844
+7213338125769231619.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",505
+7213514488656579873.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",440
+7213592807284460838.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '6shang': 1, '1shang': 0}",536
+7213678617530879288.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",520
+7213882216122797349.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",553
+7213988650680388921.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",632
+7214104523227319611.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",580
+7214269274548997437.md,keep,4下,内容审查→4下（得分6·六上簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 6, '6shang': 6, '4shang': 5}",759
+7214380957170781496.md,keep,4上,内容审查→4上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 5, '1shang': 0}",586
+7214638809554701625.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",832
+7214726776902176032.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",717
+7214997210600082691.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",682
+7215152223091739916.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",604
+7215357822777822523.md,keep,4上,内容审查→4上（得分11·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '4xia': 5, '1shang': 0}",483
+7215490232521608480.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",490
+7215552311249079610.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",634
+7215728919406791996.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",376
+7215803432723057975.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",629
+7216107507947801894.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '1shang': 0}",502
+7216186228545260857.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '1shang': 0, '1xia': 0}",462
+7216465368053746999.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",477
+7216569787143572796.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",680
+7216696252820442423.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",569
+7216851206549900601.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",715
+7216992233218673975.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",515
+7217239662622969126.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",844
+7217587494873746725.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",464
+7217971574593375527.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",549
+7218335712054086967.md,keep,4下,内容审查→4下（得分9·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 9, '6shang': 5, '5shang': 1}",691
+7218703373359516960.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",362
+7219077457012378884.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",489
+7219446351480819003.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",548
+7219833191710985483.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",556
+7220184386292043041.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",557
+7220553622357019960.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",754
+7220925671470566712.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",811
+7221300685499813175.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",584
+7221670551759244576.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",510
+7222053113421778232.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",733
+7222419929906105637.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",588
+7222789008802254135.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",711
+7223170295320907068.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '5shang': 5, '3shang': 4}",510
+7223529400439016707.md,keep,5上,内容审查→5上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 5, '1shang': 0}",644
+7223893914145639717.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",701
+7224270892564614439.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",488
+7224651313110453542.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '4shang': 4, '5shang': 1}",718
+7225012028149157152.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",836
+7225385866875735354.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",466
+7225755487923457284.md,keep,4下,内容审查→4下（得分1）,黄,六_数据的表示和分析,low,content-audit-douyin,"top_scores={'4xia': 1, '1shang': 0, '1xia': 0}",506
+7226125709041831205.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",395
+7226497552663710980.md,keep,4上,内容审查→4上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 5, '1shang': 0}",737
+7226856338381458749.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",466
+7227236338712579340.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",578
+7227634298499697975.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '6shang': 1, '1shang': 0}",547
+7228025824560090427.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '1shang': 0}",512
+7228417714392468774.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",683
+7228751456306744580.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",599
+7229092067501231364.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '4shang': 4, '5shang': 1}",493
+7229459536371862796.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",371
+7229830422312553740.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",435
+7230218056490962187.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",562
+7230575105783450940.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",541
+7230944916984155403.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",370
+7231316233910488357.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",360
+7231687329423936827.md,keep,3下,内容审查→3下（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 5, '1shang': 0, '1xia': 0}",581
+7232058039166094630.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",597
+7232235068767374651.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",299
+7232429297456155937.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",295
+7232800228888317241.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",958
+7233171415694953788.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",571
+7233542519684926780.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",362
+7233913807184219396.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",431
+7234284628687785272.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '4shang': 4}",360
+7234653099430858044.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",400
+7235397883472710924.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",513
+7235768809620114743.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",670
+7236140300316527875.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '1shang': 0}",376
+7236511100496334117.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",578
+7236882051402714407.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",443
+7237253492144885049.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",850
+7237639149325487418.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",436
+7237995516292828453.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",426
+7238366555828931897.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",420
+7238737966808468795.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '1shang': 0, '1xia': 0}",366
+7239098556253080843.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",534
+7239469754963070245.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",817
+7239840114350836996.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",512
+7240210691376958753.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",727
+7240581880368745766.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",770
+7240953809462201656.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",572
+7241054676437830973.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",185
+7241695711027334459.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",400
+7242067399757827365.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",576
+7242437692967898423.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",828
+7242809575831784742.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '4shang': 3}",959
+7243180488888683814.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",539
+7243551297109003577.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",358
+7243920464320499004.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",949
+7244664619137125688.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",545
+7245035477999373623.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",674
+7245186328894246201.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",170
+7245407083112271116.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",742
+7245777932587748663.md,keep,4上,内容审查→4上（得分9·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 9, '4xia': 5, '6shang': 1}",620
+7246146410943401220.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '6shang': 1, '1shang': 0}",866
+7246519813252648204.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '1shang': 0}",987
+7246891296399347003.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",358
+7247632799857970435.md,keep,4上,内容审查→4上（得分5·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '1shang': 0}",706
+7248374940410383653.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'1shang': 1, '2xia': 1, '5shang': 1}",1695
+7248641773931711803.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",199
+7248746184561544485.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1097
+7248775178954493244.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",661
+7249118042716638475.md,keep,4下,内容审查→4下（得分10·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 10, '4shang': 3, '1shang': 0}",948
+7249606573490818365.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",447
+7249860194774060344.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",846
+7250602400552062246.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",500
+7250972338022337853.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",621
+7251344098009877820.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '1shang': 0, '1xia': 0}",1089
+7251850766510525708.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",1031
+7252086118403804474.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",516
+7252486034875895101.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '4shang': 3, '6shang': 1}",531
+7252599489704365368.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",642
+7252828548703096121.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",613
+7253199126425259319.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",516
+7253570645135543590.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",537
+7253941236887784707.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1046
+7254312581379132710.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",574
+7254786536141491459.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '4shang': 3}",560
+7255054847790157068.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",864
+7255426432413863226.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",668
+7255797169389669695.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",533
+7256167683035614523.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",642
+7256538795070246200.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '6shang': 1, '1shang': 0}",696
+7256909827492908344.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",745
+7257281274346278202.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",630
+7257652499379752249.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '5shang': 1, '1shang': 0}",606
+7258023610101583115.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",715
+7258393015784361277.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",728
+7258765861387832635.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '2xia': 1}",611
+7259508413552430392.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",580
+7259878682230115647.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",695
+7260250517807451448.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",572
+7260621625547115817.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",793
+7260992742577179959.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",830
+7261363341120113978.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",529
+7261733946566708536.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",403
+7262477007336869176.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",798
+7262848032717294908.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",926
+7263250820236381479.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",514
+7263679502553861415.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",719
+7264021769684569356.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",634
+7264330707869207868.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",734
+7264703232042192165.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",693
+7265475808926403900.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",749
+7266250439492947237.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",902
+7266558420273188153.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",930
+7266929958289771813.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1177
+7267018049663012133.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '2xia': 1}",474
+7267354136419634493.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '4shang': 3, '6shang': 1}",725
+7267672177892216123.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",557
+7267787886349651261.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",579
+7268043429983096127.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",738
+7268413941187972411.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",726
+7271176585519189285.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",514
+7271832743053413690.md,keep,4上,内容审查→4上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 5, '1shang': 0}",765
+7272125274324503865.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",453
+7272496421633297676.md,keep,4下,内容审查→4下（得分5·五上计算簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '5shang': 5, '1shang': 0}",738
+7272867088098708773.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",525
+7273238599825476922.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '2shang': 1}",450
+7273609409211698488.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '5shang': 1, '6shang': 1}",821
+7273804473183554875.md,keep,4上,内容审查→4上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 5, '1shang': 0}",1190
+7274050391086468411.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",679
+7274374355369348389.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",747
+7274811847591726373.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",989
+7275168073139752251.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",940
+7275350820055567675.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",588
+7275543359320575287.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1002
+7275682172839775543.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",645
+7275909890361675066.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1110
+7276024601522621756.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",417
+7276337871462616374.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",765
+7276342649819385107.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",490
+7276699103138958631.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",601
+7277439079669566781.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '1shang': 0, '1xia': 0}",668
+7277506040621567293.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",792
+7277778539385031997.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1034
+7277916854335606071.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",400
+7278122840417783100.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",928
+7278193888010030373.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",819
+7278241505557417273.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",937
+7278508499745787194.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1461
+7278511100654570811.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",404
+7278613635792932157.md,keep,3下,内容审查→3下（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 5, '6shang': 1, '1shang': 0}",1552
+7278881689630248211.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",892
+7278923702799043877.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1117
+7278958212890643773.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",261
+7279017679074364731.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2159
+7279205992313736467.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '1shang': 0}",815
+7279547053171051834.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",366
+7279639737688657212.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",810
+7279962769967811899.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1006
+7280009408103337272.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1409
+7280072006610079032.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1204
+7280364133856415039.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",645
+7280404910305332537.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",867
+7280521519816576319.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",876
+7280734016658017596.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",994
+7280744260830268729.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",479
+7280845754929843467.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",748
+7281039462174346559.md,keep,4下,内容审查→4下（得分9·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 9, '5shang': 1, '1shang': 0}",836
+7281107433974484261.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1108
+7281111901038234919.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1472
+7281147872924454202.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1187
+7281484331657268539.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '2xia': 1, '6shang': 1}",1351
+7281492820312100151.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '3shang': 1, '5shang': 1}",1313
+7281523270124391739.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1368
+7281584162379713853.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",823
+7281780974067748152.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",711
+7282209628182580521.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '5shang': 1, '1shang': 0}",1393
+7282605904535620922.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1130
+7282642828889427219.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",539
+7282784239987264807.md,keep,3下,内容审查→3下（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 5, '6shang': 1, '1shang': 0}",1006
+7282966607876345147.md,keep,3上,内容审查→3上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3shang': 2, '6shang': 1, '1shang': 0}",1105
+7282975418620103947.md,keep,3上,内容审查→3上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3shang': 2, '6shang': 1, '1shang': 0}",773
+7283137647088766245.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '2xia': 1, '3shang': 1}",2044
+7283492756637404471.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",1230
+7283712071089278245.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",1242
+7284074036781468940.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1028
+7285230810834193723.md,keep,3上,内容审查→3上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3shang': 2, '6shang': 1, '1shang': 0}",773
+7285683219335302419.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",565
+7287042747503070525.md,keep,3上,内容审查→3上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3shang': 2, '1shang': 0, '1xia': 0}",507
+7287052735076207908.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",456
+7287206232140664127.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",741
+7287422205099642172.md,keep,3上,内容审查→3上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3shang': 2, '6shang': 1, '1shang': 0}",1037
+7287448448524193065.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '3shang': 2, '6shang': 1}",1288
+7287537415626001700.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",579
+7287859093014842660.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 2, '6shang': 1}",779
+7287929593686691127.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1128
+7287965007206255926.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1199
+7288164650565274935.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1714
+7288288535004695867.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1768
+7288332153916624185.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 2, '6shang': 1}",850
+7288537372449328444.md,keep,3上,内容审查→3上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 5, '3xia': 2, '6shang': 1}",1317
+7288564528420228407.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '1shang': 0}",2331
+7288638576181464378.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1174
+7288906594505608487.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2052
+7288932305832365371.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",994
+7289276682903604491.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1902
+7289566042790186295.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",2119
+7289960246687124797.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 2, '6shang': 1}",758
+7290308095346019644.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1162
+7290679529423572261.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1243
+7291050231481830675.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 2, '6shang': 1}",1133
+7291230904763059515.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '1shang': 0}",1198
+7291421467722419517.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '1shang': 0, '1xia': 0}",632
+7291530260347227446.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1731
+7291800361021541682.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1045
+7292171342982532378.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1299
+7292609382481759539.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1126
+7293495735532703002.md,keep,4下,内容审查→4下（得分4·三上簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'3shang': 4, '4xia': 4, '3xia': 1}",1322
+7293656249386667273.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1416
+7294270635348430121.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",908
+7294503673122606387.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1492
+7294639539413470503.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '3shang': 1, '1shang': 0}",1424
+7294769155318779148.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1633
+7295140014415973659.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1263
+7295381462650572082.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '6shang': 1}",2043
+7295511151822064932.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1470
+7295596013950078262.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1586
+7295606112601115915.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 2, '1shang': 0}",1713
+7295708889868291382.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",910
+7295959486592863529.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",543
+7295999707342540042.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",624
+7296102518025702719.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '5shang': 1}",1527
+7296319820633623859.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7296327070060252453.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1345
+7296380074561965366.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '2shang': 1}",1178
+7296486008248421644.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '1shang': 0, '1xia': 0}",1106
+7296693394741447987.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",879
+7296738787785313577.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '6shang': 1}",993
+7297074468977921343.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1172
+7297128825719196937.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",999
+7297172990628826409.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1254
+7297244479487053093.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",935
+7297393759820451098.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1134
+7297534118349376819.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1390
+7297737499944832306.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",924
+7297777294611991820.md,keep,4上,内容审查→4上（得分8·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 5, '1shang': 0}",1437
+7298108572519451913.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",481
+7298188939389586751.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '1shang': 0}",826
+7298227137121635634.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",968
+7298276587802316095.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4shang': 3, '6shang': 1}",1398
+7298480094161440038.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '6shang': 1}",1526
+7298548844516740389.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1698
+7298693939962350899.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '6shang': 1}",1185
+7298918710134279487.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1463
+7298923610532564275.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1517
+7299030189336497444.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1401
+7299085770105572671.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",937
+7299267238199102756.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 1, '5shang': 1}",1556
+7299420491645783305.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1434
+7299676511815224615.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",861
+7299771117231738163.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '2shang': 1}",1076
+7299811158410775818.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",809
+7300016264313916713.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1029
+7300335190172372265.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '6shang': 1}",1024
+7300501234065116453.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1169
+7300698759665552681.md,keep,4上,内容审查→4上（得分8·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 5, '6shang': 1}",1423
+7300949816291396905.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '3shang': 4, '3xia': 2}",1390
+7301082430507683081.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '6xia': 1, '1shang': 0}",1566
+7301155612698676517.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1148
+7301199938619329855.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '6shang': 1}",1273
+7301448299947642148.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",1141
+7301519820342824243.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '6shang': 1}",1398
+7301819109686152475.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1339
+7302190281401666826.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '6shang': 1}",1479
+7302281869532482853.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",972
+7302312941930466623.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",1595
+7302581354099641611.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",1019
+7302647071868259596.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",956
+7302932652506598694.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1229
+7303092766148431114.md,keep,4上,内容审查→4上（得分9·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 9, '4xia': 5, '6shang': 5}",783
+7303303256879435019.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",831
+7303545303955770675.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",800
+7303675278834830604.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",864
+7303845375633313078.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '1shang': 0}",1065
+7304045672376962367.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '2xia': 1, '6shang': 1}",1262
+7304417225417510170.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1276
+7304788179222138138.md,keep,4上,内容审查→4上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 5, '1shang': 0}",1020
+7305159564280778047.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1105
+7305560995764653323.md,keep,3上,内容审查→3上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 5, '3xia': 2, '6shang': 1}",1201
+7305600554955296036.md,keep,4上,内容审查→4上（得分8·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 5, '6shang': 1}",1752
+7305901621764967719.md,keep,4上,内容审查→4上（得分8·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 5, '6shang': 1}",969
+7305987826804395318.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '3shang': 1, '5shang': 1}",2484
+7306040165158358281.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1844
+7306115225554586891.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1573
+7306272670243360009.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1106
+7306357867961912595.md,keep,4上,内容审查→4上（得分10·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 10, '6shang': 6, '4xia': 5}",3297
+7306460845406506266.md,keep,4上,内容审查→4上（得分5·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '3shang': 1}",1771
+7306643994006588698.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",880
+7306732381279456539.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",2571
+7306858277919313178.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1418
+7307114267910720831.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1468
+7307261536240733490.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1192
+7307475350995438859.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '4xia': 5}",1219
+7307534338567015689.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1284
+7307625006341623081.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",1610
+7307889359070498098.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1272
+7308135830336343347.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1516
+7308499139396980007.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1136
+7308605394765499702.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2372
+7308706272881184041.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1446
+7308870471133564170.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1409
+7308955232313019667.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2612
+7309046150416452905.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1150
+7309243723274112275.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",1040
+7309320083103304971.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2109
+7309341852463942963.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1354
+7309416674472594714.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2065
+7309612344374496549.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",771
+7309759009580436746.md,keep,4上,内容审查→4上（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3xia': 4, '6shang': 1}",799
+7309789926164385087.md,keep,3下,内容审查→3下（得分4·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 4, '6shang': 1, '1shang': 0}",1468
+7310053350924406027.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1255
+7310130364981300506.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '3shang': 4, '3xia': 1}",1209
+7310354539918495026.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1988
+7310487084937104652.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",1068
+7310747877305830719.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1307
+7310963039619140876.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1190
+7311096908640963881.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",2157
+7311199184177171723.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1669
+7311276676376169740.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",587
+7311467827213471026.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2262
+7311551638748171546.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",1833
+7311656414794091813.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",676
+7311839232031558950.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 4, '3shang': 1}",2585
+7311933476536732978.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1818
+7312001584689384714.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",947
+7312210043431079177.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1391
+7312306546359209255.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1347
+7312313391371062547.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",1318
+7312446684775140662.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,710
+7312581088063360310.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",967
+7312688644500852022.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1012
+7312777272560258313.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1435
+7312952130464189746.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1551
+7312999974353046810.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1549
+7313130285971901715.md,keep,4上,内容审查→4上（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 5, '4shang': 5, '3shang': 4}",1292
+7313323441472539945.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1313
+7313396254086548763.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",941
+7313694057572732211.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1395
+7313803418848480553.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '5xia': 1, '1shang': 0}",1649
+7314086215316147482.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1508
+7314178423012805939.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1608
+7314436520901987634.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1718
+7314618648126147891.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1300
+7314807562426256694.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",920
+7314861963845045523.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",895
+7314970253484657946.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",831
+7315178723202862346.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1338
+7315256182736768306.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",910
+7315549911083175222.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1143
+7315663341907610891.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1691
+7315750654054518054.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",661
+7315958829928221991.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",986
+7315994217543732491.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1157
+7316300620091182362.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",1354
+7316382346192669989.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '4xia': 5}",1290
+7316391670637972763.md,keep,4下,内容审查→4下（得分5·五上计算簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '5shang': 5, '6shang': 1}",940
+7316476559400160575.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",751
+7316736338051501350.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '5shang': 1, '6shang': 1}",1450
+7316790020528934181.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",854
+7316897716318031155.md,keep,4上,内容审查→4上（得分11·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '4xia': 5, '6shang': 1}",1477
+7317155858457038143.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",583
+7317159233882000679.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1351
+7317202985380089099.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1803
+7317274936962288947.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '6shang': 1}",2052
+7317474800480308506.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1025
+7317493852217019675.md,keep,4上,内容审查→4上（得分6·六上簇）,黄,二_认识三角形和四边形（图形性质·跨册）,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 6, '4xia': 5}",2104
+7317560864343674166.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",846
+7317776305682910505.md,keep,3上,内容审查→3上（得分6·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 6, '3xia': 2, '6shang': 1}",1647
+7317843975950322980.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",1573
+7317878898279189798.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 1, '6shang': 1}",908
+7317942085326294299.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1065
+7318157958989253927.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1357
+7318278239632248074.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1020
+7318526402679033151.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1197
+7318558450638769419.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 1, '1shang': 0}",1723
+7318696486206852378.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1655
+7318897198027132197.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '6shang': 1}",1026
+7319028066100055333.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1020
+7319146355815877938.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1536
+7319300977495002407.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",1026
+7319378517257407763.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1781
+7319652912618147109.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2854
+7319693463379905831.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",698
+7319776397369560374.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1481
+7320004545088703755.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1751
+7320175679797054758.md,keep,4上,内容审查→4上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 5, '6shang': 1}",1109
+7320373805971541267.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",2231
+7320450524556397851.md,keep,4上,内容审查→4上（得分11·方程/倒推簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '4xia': 4, '6shang': 1}",2101
+7320488778513026358.md,keep,4上,内容审查→4上（得分5·方程/倒推簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 4, '6shang': 1}",770
+7320517998123552011.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",980
+7320737111181741362.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形（图形性质·跨册）,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",794
+7320783665305292059.md,keep,4上,内容审查→4上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 5, '1shang': 0}",1535
+7320963531099114790.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,749
+7321108110553206053.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",526
+7321123508468075815.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1921
+7321204717940510015.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1620
+7321345277997124914.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1143
+7321491058532158739.md,keep,4上,内容审查→4上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 5, '1shang': 0}",1232
+7321567357086780708.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1094
+7321585862314102067.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",856
+7321649746626628902.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1131
+7321860736169299237.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1085
+7321932461531843881.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1378
+7322013056236604699.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 2, '6shang': 1}",1590
+7322089811240586559.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",1961
+7322229490585734450.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '3shang': 5, '3xia': 2}",752
+7322268204858903817.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1960
+7322274526258007315.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1115
+7322356799380737334.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1899
+7322649857225674022.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1301
+7322677911482338610.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",192
+7322710983091309887.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '6shang': 1, '1shang': 0}",1599
+7322742365557509387.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,743
+7322777551963884810.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1570
+7322985613278448937.md,keep,3上,内容审查→3上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 5, '3xia': 2, '1shang': 0}",1236
+7323073285351116041.md,keep,3下,内容审查→3下（得分4·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 4, '1shang': 0, '1xia': 0}",1886
+7323150475019242779.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",1094
+7323367915347102986.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2342
+7323427870930423076.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1868
+7323567608291183913.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",948
+7323713702476123443.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1408
+7323798830233799945.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1317
+7323870924527258899.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1681
+7324096558587333915.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",630
+7324165651713543443.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1199
+7324254246306630963.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",1716
+7324455903317560586.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1242
+7324484098586643721.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",982
+7324558850823130387.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1093
+7324831709776678153.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '6shang': 1, '1shang': 0}",1534
+7324990783046552873.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1062
+7325200557986123044.md,keep,4上,内容审查→4上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 5, '6shang': 1}",1754
+7325279587728952595.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",500
+7325327224389913919.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1687
+7325604772545842495.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1008
+7325739038818749746.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",946
+7326007854954040626.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,945
+7326075056034041124.md,keep,4上,内容审查→4上（得分8·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 5, '6shang': 1}",1096
+7326366769826794763.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1393
+7326467406736526604.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1766
+7326682284084481289.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '2shang': 1, '6shang': 1}",1827
+7327055898357075237.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1266
+7327123190902213926.md,keep,3下,内容审查→3下（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 5, '3shang': 4, '6shang': 1}",633
+7327249057099812146.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1214
+7327426954158722314.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,2052
+7327581280533581067.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1611
+7327798214126472460.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '2shang': 1}",1208
+7328300719931411722.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",2362
+7328324857270127908.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1400
+7328540219437796649.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1330
+7328568757041876236.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",904
+7328683872017763611.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",1082
+7328911436690754828.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1802
+7329055213766315274.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",897
+7329362034707926308.md,keep,4上,内容审查→4上（得分8·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 5, '6shang': 1}",1696
+7329388734447635738.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1491
+7329653511568821531.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1951
+7329715638732082451.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1141
+7329858538711321906.md,keep,4上,内容审查→4上（得分8·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '6shang': 1, '1shang': 0}",1314
+7330024646030396683.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,2145
+7330134104945560842.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1453
+7330395656512752908.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1540
+7330804582039276863.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",838
+7330820693220822283.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '3shang': 4}",1695
+7330904105780514084.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",944
+7331143252432686347.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1112
+7331514447908850985.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,935
+7331571974851939625.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1095
+7331908654024658212.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1081
+7331946547111922980.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '1shang': 0}",1170
+7332283014782766399.md,preview,5上,奥数/寒假·数列规律（非3下找规律课）,红,,high,hard-preview-aoshu-guilv,,1511
+7332338769741352231.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",939
+7332627530576350505.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1143
+7333058476005969203.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,980
+7333098168504077618.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1197
+7334513431057337626.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1021
+7334924302434848010.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1211
+7335478965617937700.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1259
+7335674811093388556.md,keep,4上,内容审查→4上（得分8·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '1shang': 0, '1xia': 0}",996
+7335998879713742130.md,keep,4上,内容审查→4上（得分5·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 5, '4shang': 5, '3shang': 4}",803
+7336504663090498879.md,keep,3下,内容审查→3下（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3xia': 2, '6shang': 1, '1shang': 0}",1149
+7336741933382913317.md,keep,3下,内容审查→3下（得分4·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 4, '1shang': 0, '1xia': 0}",834
+7336811867630783795.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,1576
+7337105953654885695.md,keep,4下,内容审查→4下（得分8·六上簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 8, '6shang': 5, '1shang': 0}",1470
+7337184416453692699.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1423
+7337238620652211468.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1758
+7337517477158538507.md,keep,3下,内容审查→3下（得分1）,绿,,low,content-audit-douyin,"top_scores={'3xia': 1, '6shang': 1, '1shang': 0}",812
+7337547748054404393.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,982
+7337645963357506857.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,2695
+7337880956411415846.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,1412
+7337950263803776319.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,584
+7337991203570355494.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,831
+7338030780414741770.md,keep,3下,内容审查→3下（得分1）,绿,,low,content-audit-douyin,"top_scores={'3xia': 1, '6shang': 1, '1shang': 0}",1102
+7338257632425266451.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1051
+7338298927772421430.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,2309
+7338361505613761802.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,1666
+7338630506533096767.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,2741
+7338682634521922828.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,绿,四_观察物体,high,content-audit-douyin,"top_scores={'4xia': 5, '3xia': 1, '1shang': 0}",1528
+7338978096445525260.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",938
+7338991703484861747.md,keep,4下,内容审查→4下（得分11·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 11, '6shang': 1, '1shang': 0}",1662
+7339341545545452810.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '3shang': 4}",1657
+7339450163683003699.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,804
+7339697187112111399.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 3, '1shang': 0}",1531
+7339750732754586930.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1478
+7339787566750764327.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",828
+7339875724263804201.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7340108996113599781.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1623
+7340122621050228006.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1379
+7340142340822142235.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",1588
+7340482348569349415.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '3shang': 1, '6shang': 1}",2197
+7340489064639958323.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1339
+7340850428084522277.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1619
+7340864400015772967.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1583
+7340903795683134732.md,keep,5上,内容审查→5上（得分5·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '1shang': 0, '1xia': 0}",2135
+7341219881393704228.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1103
+7341225929408040243.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1078
+7341254603477962022.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1713
+7341259212091051283.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",869
+7341584518026890535.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1709
+7341594677906312475.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",2042
+7341759171991309609.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1105
+7341933455636188479.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",1809
+7341951744064113929.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",1286
+7342348153963728179.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1697
+7342391099442384166.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '1shang': 0}",1406
+7342708534586461459.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",2377
+7342714424504880425.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1238
+7342817005122145575.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",588
+7343079038073703717.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '4shang': 4, '5shang': 2}",2426
+7343086691000913193.md,keep,4上,内容审查→4上（得分10·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 10, '5shang': 1, '6shang': 1}",1833
+7343127076096019721.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1253
+7343454306080705803.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1350
+7343466193707109644.md,keep,4上,内容审查→4上（得分6·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '6shang': 1}",1212
+7343554631462571314.md,keep,4上,内容审查→4上（得分6·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '1shang': 0}",1063
+7343760222822944026.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1271
+7343851989601635625.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1980
+7343910799515192586.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '3shang': 1, '5shang': 1}",1336
+7344236446254943525.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",1248
+7344342883614477622.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1160
+7344555106404289804.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",3066
+7344562809516199219.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",775
+7344627793352805669.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '1shang': 0}",1204
+7344747534054690075.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",559
+7344944182416444681.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",893
+7344973538354318601.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7345041158088838410.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1955
+7345308595791088947.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '1shang': 0, '1xia': 0}",1211
+7345343111389777190.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",673
+7345460913161489675.md,keep,4上,内容审查→4上（得分9·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 9, '5shang': 1, '6shang': 1}",1203
+7345688185839602953.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1675
+7345712868165176585.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 4, '5shang': 1}",1489
+7345747656183909659.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '1shang': 0}",1236
+7346043704064429363.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",1324
+7346050848918703423.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",698
+7346118173776760105.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",988
+7346142984821427497.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1574
+7346421125250944265.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1380
+7346459640957259044.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '6shang': 1, '1shang': 0}",2329
+7346557113595989298.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 4, '5shang': 2}",1898
+7346759889802382604.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '4shang': 4}",1205
+7346774579873910026.md,keep,4上,内容审查→4上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 5, '6shang': 1}",1315
+7346832392503594267.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1407
+7347140525599788342.md,keep,4下,内容审查→4下（得分10·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 10, '6shang': 6, '1shang': 0}",1579
+7347146874941459762.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",1098
+7347209885521628454.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1017
+7347541238507261223.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '6shang': 1}",1373
+7347586659661253942.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1549
+7347631910060887333.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '6shang': 1, '1shang': 0}",1202
+7347912352349654323.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1592
+7347951604307348773.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '3shang': 4, '3xia': 1}",2083
+7348057045070925095.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '6shang': 1, '1shang': 0}",892
+7348273796882746665.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",1830
+7348283476895911222.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1758
+7348330717119515945.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1004
+7348417500301774089.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1307
+7348647570643684659.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",865
+7348686726635785510.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",935
+7348692403651366183.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",404
+7348699774029221183.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '3shang': 1, '5shang': 1}",1334
+7349021132814601484.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1848
+7349025880691232054.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2139
+7349089310458662163.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '5shang': 1}",1873
+7349362109295234343.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2337
+7349435899454721343.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1113
+7349750634976955674.md,keep,4上,内容审查→4上（得分10·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 10, '4xia': 5, '5shang': 1}",1819
+7349782900046417206.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",850
+7349805657828232474.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1293
+7350097856549653811.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",817
+7350141799895141683.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",1744
+7350155265662061861.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",917
+7350172676809362724.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1012
+7350201692555726117.md,shell,,,N/A,,high,shell-empty,空壳遗留,137
+7350233895759138102.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1224
+7350499856089189651.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '2xia': 1, '6shang': 1}",1575
+7350513506581482788.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1022
+7350614241260391731.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",892
+7350871536624045363.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",2264
+7350894009449024795.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7350908635888799017.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1332
+7350981188468673830.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1652
+7351252725591493927.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '6shang': 1, '1shang': 0}",1593
+7351256787733073162.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1615
+7351286287350975795.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",868
+7351297915182238988.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",943
+7351306883036204297.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7351648412212792613.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1051
+7351654977900694794.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1458
+7351718690162855180.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1271
+7351939348222250277.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '5shang': 1, '1shang': 0}",1469
+7352093917069757705.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1735
+7352406185724661042.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1359
+7352518708155174153.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '6shang': 1}",1678
+7352743276719443237.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1738
+7352761156957637914.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1944
+7352776948021529867.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '1shang': 0, '1xia': 0}",881
+7352798204641037618.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7352872273415539979.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1384
+7352878108845952307.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",432
+7353096716184194331.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1108
+7353109155982494988.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1151
+7353119456480021770.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",196
+7353240468454493481.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",1222
+7353470216103267620.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1644
+7353477806258523431.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '5shang': 1, '6shang': 1}",1543
+7353531272511163657.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",262
+7353579473926638911.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1271
+7353792631991749927.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1094
+7353840378811796774.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1332
+7353901453586615603.md,shell,,,N/A,,high,shell-empty,空壳遗留,146
+7354159052076633354.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '1shang': 0}",1649
+7354201202831232293.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",996
+7354385740098178342.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",867
+7354534392129162505.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",461
+7354554796516412713.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",958
+7354656877558500659.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",898
+7354955263834590474.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1067
+7354970098735516969.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1756
+7354995891121425690.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",921
+7355007663085800713.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",192
+7355110466789641481.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 2, '6shang': 1}",1351
+7355371758544768266.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1000
+7355383747870559529.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 1, '6shang': 1}",1454
+7355392654982663433.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7355501080920329509.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",799
+7355727365781065023.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1137
+7355814245507812617.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",287
+7355840393621015845.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1331
+7356024536824827147.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '6shang': 1, '1shang': 0}",1777
+7356130212188310794.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",994
+7356141835888217370.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",476
+7356388258621820197.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '4shang': 1, '5shang': 1}",816
+7356422466652212489.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",529
+7356427352424959241.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",192
+7356600198883314982.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '1shang': 0, '1xia': 0}",1232
+7356819159826664758.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1087
+7357161232232762661.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '2xia': 1}",1514
+7357171477847838006.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",995
+7357344340357827879.md,keep,2上,内容审查→2上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2shang': 1, '1shang': 0, '1xia': 0}",1115
+7357504074243198227.md,keep,4上,人教三下·八方向→北师大4上五单元,绿,五_方向与位置,high,hard-4shang-fangxiang,,853
+7357633598385655094.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",848
+7357651669628226854.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",192
+7357993137341582604.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1157
+7358024347304348938.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",289
+7358028465402170650.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1145
+7358060222016998668.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1318
+7358294032860187940.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1833
+7358302842488196391.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",790
+7358369964056726793.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",196
+7358426154962799935.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1787
+7358662318168870163.md,keep,4下,内容审查→4下（得分6·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 6, '6shang': 6, '3shang': 5}",2056
+7358674815445781771.md,keep,5上,内容审查→5上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 6, '1shang': 0}",1082
+7358722722551172364.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '3xia': 1}",1063
+7358767456015486245.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",921
+7358805442622950693.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",931
+7359044348673133835.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '2shang': 1, '3shang': 1}",3447
+7359075218909842715.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",886
+7359107906307951898.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",305
+7359139901935340809.md,keep,3下,内容审查→3下（得分4·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 4, '6shang': 1, '1shang': 0}",1083
+7359369486081756466.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",192
+7359440527143603466.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,758
+7359518893708250418.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",836
+7359716899459992841.md,keep,4下,内容审查→4下（得分5·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 5, '4shang': 4}",1244
+7359756368439528754.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1267
+7359861972944424233.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",635
+7360087899842399542.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '6shang': 1, '1shang': 0}",720
+7360122709184974117.md,keep,4上,内容审查→4上（得分8·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '6shang': 1, '1shang': 0}",759
+7360531660108090633.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '4shang': 3, '3xia': 1}",1392
+7360552890320112932.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2587
+7360561778184473895.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1396
+7360573887089855795.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",305
+7360919414755101990.md,keep,3下,内容审查→3下（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '3xia': 1, '6shang': 1}",815
+7360927712212569371.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '1shang': 0}",1194
+7360988454362058011.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",921
+7361053394078895369.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,613
+7361276065240616218.md,keep,3上,内容审查→3上（得分6·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 6, '3xia': 2, '5xia': 1}",1740
+7361303007679614246.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1040
+7361316279946349850.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1023
+7361635542892662067.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1510
+7361673232212151593.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",989
+7361692013403688201.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",192
+7361770311076826409.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",817
+7362003797557644570.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1675
+7362034971571195186.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1082
+7362067249135357210.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7362110159310671158.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1352
+7362329947697925387.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '6shang': 1, '1shang': 0}",1121
+7362515701543882010.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7362536675425193228.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,838
+7362745983656103222.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1505
+7362753294634110249.md,keep,3下,内容审查→3下（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '3xia': 1, '6shang': 1}",1024
+7362793621143227667.md,keep,3上,内容审查→3上（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3shang': 2, '3xia': 1, '6shang': 1}",2081
+7362824670757915914.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7362852972994301195.md,keep,5上,内容审查→5上（得分5·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1614
+7363144493769542966.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2166
+7363187905654689087.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1325
+7363213876189596965.md,shell,,,N/A,,high,shell-empty,空壳遗留,150
+7363251846187748627.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '5xia': 1, '6shang': 1}",2277
+7363490966973500711.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2090
+7363517485892635942.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '6xia': 1, '1shang': 0}",1471
+7363811614765763877.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2248
+7363833668315434277.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",921
+7364061746983603465.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1203
+7364189268698303780.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",1864
+7364238400435571978.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 1, '1shang': 0}",1020
+7364569262796688666.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,847
+7364578629398908171.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '3shang': 1, '1shang': 0}",1044
+7364954689701514534.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1598
+7364968355205270847.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1216
+7365283038319758642.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1457
+7365328951192849718.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,876
+7365511149028248841.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",969
+7365740683925146934.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1515
+7365809748245024026.md,shell,,,N/A,,high,shell-empty,空壳遗留,154
+7365814433169411338.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1741
+7366091594082159909.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1691
+7366111386277023026.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1847
+7366160560385248563.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",921
+7366232857192238362.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1311
+7366458419148098867.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",203
+7366469472267341094.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",1073
+7366520765367209266.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7366572862888627519.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '5shang': 1, '1shang': 0}",1078
+7366608473817238838.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1257
+7366829998453329190.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1819
+7366872318947118355.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",534
+7366938052951870730.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",199
+7366989526612413705.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",786
+7367201667273575692.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",2910
+7367234635446635803.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",3112
+7367250092698455323.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7367366148389653771.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '3shang': 1, '6shang': 1}",1551
+7367571158264319243.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1347
+7367601451704618277.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",700
+7367650948791029002.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7367717818160254271.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1289
+7367920878627212570.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",905
+7367936272611953956.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1746
+7368326414086556969.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1834
+7368388623454063909.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7368416273169960203.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '3shang': 1, '6shang': 1}",2001
+7368686325819608357.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1623
+7368708316723285298.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '4xia': 5}",1911
+7368760636458765605.md,shell,,,N/A,,high,shell-empty,空壳遗留,136
+7369053239020490003.md,keep,4下,内容审查→4下（得分5·小数簇）,绿,四_观察物体,high,content-audit-douyin,"top_scores={'4xia': 5, '3shang': 2, '6shang': 1}",1462
+7369094284655529255.md,keep,3上,应用题·跨月天数,绿,七_年月日,high,hard-3shang-baozhiqi,,1354
+7369399111189024019.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1481
+7369492878130826546.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7369535435577625875.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '1shang': 0, '1xia': 0}",1964
+7369833550142508327.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '6shang': 1, '1shang': 0}",1478
+7369855926938930470.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",230
+7369903396704374055.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",861
+7369911929495768358.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7370124651898440972.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1104
+7370152727537634572.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",808
+7370522317815827775.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '6shang': 1, '1shang': 0}",1747
+7370535661322947894.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",978
+7370549489179954458.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",955
+7370921898932243775.md,keep,4上,内容审查→4上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 6, '4xia': 5}",2047
+7370947710372826377.md,keep,4上,内容审查→4上（得分6·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '5shang': 1}",1627
+7370986073754750219.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1147
+7371005613666536741.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",230
+7371278649057660198.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 1, '6shang': 1}",1353
+7371390881963838759.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1410
+7371416643752267035.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '5shang': 1, '6shang': 1}",1176
+7371646198190574885.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1871
+7371711561007680831.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '3shang': 4}",1828
+7372034543441808691.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1750
+7372075241335524649.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",989
+7372129107481513242.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '3shang': 4}",1051
+7372395636114705700.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,3153
+7372459357377662218.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1098
+7372498834271898890.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1241
+7372712444436761895.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",873
+7372860800639241482.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 4, '1shang': 0}",2080
+7372915211264707903.md,keep,4上,内容审查→4上（得分6·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '3shang': 1}",817
+7373123994507119883.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",859
+7373197968972746010.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",255
+7373485092313828658.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1102
+7373520356457336101.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1292
+7373578251588914442.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7373643714943667495.md,keep,4下,内容审查→4下（得分9·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 9, '6shang': 5, '1shang': 0}",1515
+7373885406070328613.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1266
+7373992325762010378.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7374032915350490422.md,keep,4上,内容审查→4上（得分5·方程/倒推簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 4, '2shang': 1}",1783
+7374219238040505650.md,keep,4上,内容审查→4上（得分7·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '6shang': 1, '1shang': 0}",1238
+7374303256098393381.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1392
+7374358361497799974.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7374586895201848626.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '6shang': 1}",1760
+7374730992243821862.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7374993282989903140.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1827
+7375093257501412662.md,keep,3下,内容审查→3下（得分1）,绿,,low,content-audit-douyin,"top_scores={'3xia': 1, '1shang': 0, '1xia': 0}",1433
+7375327734073003301.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",2663
+7375552513610698003.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",812
+7375700912985099529.md,keep,4下,内容审查→4下（得分10·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 10, '1shang': 0, '1xia': 0}",889
+7375885529147100479.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '6shang': 1}",1231
+7376121115795672383.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1900
+7376214345073626377.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7376229468270054682.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7376269444462562601.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1350
+7376620750326828326.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1631
+7376628131412675879.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2173
+7376853085487926555.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1975
+7376878794671492406.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '6shang': 1, '1shang': 0}",1540
+7376975177378270518.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '3shang': 1}",2105
+7377212531657411849.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7377218423438265612.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '1shang': 0}",1434
+7377257777326083347.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",1850
+7377292670634298651.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7377588068179660041.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1500
+7377699002675957019.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '6shang': 1, '1shang': 0}",1726
+7377938138603343143.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1259
+7377972368565734666.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",1648
+7378278842181389579.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1541
+7378401398037269797.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1338
+7378692303742930188.md,keep,4下,内容审查→4下（得分4·三上簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'3shang': 4, '4xia': 4, '3xia': 1}",980
+7378752142741425420.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1130
+7379085905107160370.md,keep,2下,内容审查→2下（得分1）,绿,,low,content-audit-douyin,"top_scores={'2xia': 1, '6shang': 1, '1shang': 0}",1981
+7379167932691008780.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1842
+7379445910062861618.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",1412
+7379596704095554867.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2268
+7379825417781251382.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1915
+7379924924326022436.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2570
+7380217633905413414.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '1shang': 0, '1xia': 0}",1681
+7380361202301488394.md,shell,,,N/A,,high,shell-empty,空壳遗留,151
+7380615798085258534.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1916
+7380894031791820083.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1214
+7380974814355410217.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1724
+7381312486156356902.md,keep,4上,内容审查→4上（得分7·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '4xia': 5, '5shang': 1}",1716
+7381450674019519794.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1370
+7381640783834778917.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",1129
+7381676409783176458.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '1shang': 0, '1xia': 0}",540
+7381838457263410444.md,keep,4下,内容审查→4下（得分4·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 4, '4shang': 1, '6shang': 1}",2051
+7382048844093181203.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",1925
+7382147960999546131.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1689
+7382517995391700233.md,keep,3上,应用题·跨月天数,绿,七_年月日,high,hard-3shang-baozhiqi,,1106
+7382569083042041098.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1414
+7382825171897306405.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '3shang': 4}",1966
+7382944095917935883.md,keep,5上,内容审查→5上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 6, '4shang': 5}",1600
+7383154348034936114.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1328
+7383307624315358473.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",1274
+7383507758055722294.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4shang': 5, '3shang': 1}",1413
+7383608962790345995.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '1shang': 0, '1xia': 0}",1633
+7383945947174145334.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1320
+7384319513984126245.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",1221
+7384764078742408457.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1511
+7385035697893166348.md,keep,4下,内容审查→4下（得分4·三上簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'3shang': 4, '4xia': 4, '3xia': 1}",1255
+7385356624786902311.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1361
+7385742109590048050.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1467
+7386306490417581363.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1244
+7386506928479898918.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '2xia': 1, '5shang': 1}",1216
+7386914376269172004.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1217
+7386951367455296806.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7387242244610313513.md,keep,4上,内容审查→4上（得分10·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 10, '3shang': 2, '5shang': 1}",2201
+7387297922825719077.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7387651219768069388.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",2018
+7387995474684398867.md,keep,4上,内容审查→4上（得分8·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 1, '1shang': 0}",2061
+7388068612508126501.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7388385787030539539.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1656
+7388436058481954099.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7388728374434254119.md,keep,4上,内容审查→4上（得分9·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 9, '6shang': 1, '1shang': 0}",1630
+7388818911963172147.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7389080068879813926.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '1shang': 0}",1122
+7389125034373025051.md,keep,3下,内容审查→3下（得分2）,绿,,medium,content-audit-douyin,"top_scores={'3xia': 2, '6shang': 1, '1shang': 0}",927
+7389181675491675401.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7389481005301714203.md,keep,4上,内容审查→4上（得分8·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '6shang': 1, '1shang': 0}",1749
+7389561726594845979.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7389821206628797706.md,keep,4上,内容审查→4上（得分14·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 14, '4xia': 5, '6shang': 1}",1351
+7390188296497876235.md,keep,4上,内容审查→4上（得分7·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '6shang': 1, '1shang': 0}",1269
+7390587477599194404.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1143
+7390675664661171506.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '3shang': 1, '6shang': 1}",1657
+7390700170054274355.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7390937736158465292.md,keep,4上,内容审查→4上（得分8·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '5shang': 1, '6shang': 1}",903
+7391052672071191846.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7391327533603622182.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1059
+7391697699227045158.md,keep,4上,内容审查→4上（得分7·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '1shang': 0, '1xia': 0}",1762
+7391807717528177970.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7392030126445268275.md,keep,4上,内容审查→4上（得分5·方程/倒推簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '3xia': 1}",943
+7392072071582321929.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1214
+7392217117862415667.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7392445521048194330.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '4shang': 1}",1681
+7392616253266939187.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",268
+7392622424728145162.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7392769590142504201.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1575
+7393129632591056154.md,keep,4上,内容审查→4上（得分7·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '5shang': 5, '1shang': 0}",1809
+7393506966317911306.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1055
+7393881358688374042.md,keep,4上,内容审查→4上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 5, '6shang': 1}",1144
+7394251611146685747.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",2405
+7394629221080943881.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '4shang': 1}",1267
+7394982492756888858.md,keep,4上,内容审查→4上（得分8·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '6shang': 6, '4xia': 5}",1477
+7395362883405696307.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '4shang': 1, '6shang': 1}",1379
+7395744800059837733.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1511
+7396117699404844325.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",995
+7396488994294484250.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1004
+7396860469308394779.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",952
+7397232853357989147.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,1332
+7397595643461520666.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1263
+7397948294531468571.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1172
+7398320340989955337.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",982
+7398692785567567131.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1310
+7399067105385073958.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '4shang': 1, '1shang': 0}",1465
+7399446793722924325.md,keep,4下,内容审查→4下（得分4·三上簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'3shang': 4, '4xia': 4, '3xia': 1}",1117
+7399817734667701554.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1706
+7400184243088837915.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",1452
+7400555194557222170.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",1626
+7401038963298880819.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1069
+7401295977744698674.md,keep,4上,内容审查→4上（得分6·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 2, '6shang': 1}",2160
+7401416236539628826.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",447
+7401648800453922057.md,keep,3上,内容审查→3上（得分4·三上簇）,绿,,high,content-audit-douyin,"top_scores={'3shang': 4, '3xia': 1, '6shang': 1}",1915
+7402037910830091547.md,keep,4上,内容审查→4上（得分4·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 4, '5shang': 1, '1shang': 0}",1018
+7402421151059709193.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2132
+7402793777531866405.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '4shang': 4, '3xia': 1}",1626
+7403169724395293978.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '6shang': 1, '1shang': 0}",1343
+7403523792296905993.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '6shang': 1}",1257
+7403925877882359091.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '6shang': 1, '1shang': 0}",1409
+7404274156990188851.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1509
+7404673453380488475.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '6shang': 1, '1shang': 0}",1786
+7405034674793254170.md,keep,4上,内容审查→4上（得分5·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '3shang': 4, '3xia': 1}",1570
+7405249026225917221.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",252
+7405539365725785353.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",176
+7406175223994780938.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",566
+7407696497212460326.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",362
+7408559983576550666.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7411061629355314442.md,keep,4上,内容审查→4上（得分5·图形/鸡兔簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",693
+7412609362931272986.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",772
+7416342908833418547.md,keep,4上,内容审查→4上（得分6·三上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '3shang': 4, '3xia': 1}",1582
+7416658409421950245.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",1609
+7416710640812690726.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",2070
+7417077474158218547.md,keep,4上,内容审查→4上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 5, '6shang': 1}",1467
+7417305950811376922.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '1shang': 0, '1xia': 0}",1000
+7417808185500781850.md,keep,4上,内容审查→4上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 5, '1shang': 0}",1736
+7417816135082675507.md,keep,4上,内容审查→4上（得分7·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '6shang': 1, '1shang': 0}",1049
+7418083409693592882.md,keep,4上,内容审查→4上（得分7·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '4xia': 5, '5shang': 1}",1822
+7418579824140127498.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1497
+7419228794348784905.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '1shang': 0}",747
+7419682181938793778.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",764
+7420380023871360282.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",2009
+7422996227903474982.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '5shang': 1, '6shang': 1}",821
+7423386316022222117.md,keep,4上,内容审查→4上（得分8·方程/倒推簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '4xia': 4, '6shang': 1}",1756
+7423613863335169307.md,keep,4上,内容审查→4上（得分7·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '5shang': 5, '2shang': 1}",1876
+7423773691483393331.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1291
+7425596717690539273.md,keep,4上,内容审查→4上（得分6·大数/数位簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '6shang': 1, '1shang': 0}",2610
+7426758657884327206.md,keep,4上,内容审查→4上（得分7·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '6shang': 1, '1shang': 0}",1403
+7427118627570175282.md,keep,4上,内容审查→4上（得分7·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '2shang': 1, '6shang': 1}",1611
+7427293995400826138.md,keep,4上,内容审查→4上（得分7·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '2shang': 1, '1shang': 0}",1706
+7427451322498125082.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1580
+7427758066164190501.md,keep,4上,内容审查→4上（得分11·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '5shang': 1, '1shang': 0}",2130
+7428063425676299557.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",1245
+7428214841862671667.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1034
+7428548536028925194.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '2shang': 1, '5shang': 1}",3209
+7428580587121691954.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1041
+7428924766179904819.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",2436
+7429219657682406693.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",2542
+7429323409546300698.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '1shang': 0}",1724
+7429668709020617993.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1842
+7429908016117386546.md,keep,4上,内容审查→4上（得分8·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 8, '1shang': 0, '1xia': 0}",919
+7430289032397065522.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1626
+7430770279963462938.md,keep,4上,内容审查→4上（得分1）,绿,,low,content-audit-douyin,"top_scores={'4shang': 1, '5shang': 1, '6shang': 1}",1716
+7431138090745400613.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2091
+7431171924547390729.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '1shang': 0, '1xia': 0}",979
+7431426996527320330.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1299
+7431489705943813385.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '5shang': 5}",2690
+7431763203601829129.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 3, '1shang': 0}",2231
+7432157793580256563.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 1, '1shang': 0}",2113
+7432309129735048486.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1165
+7432836045055610122.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1121
+7432866461837708594.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",863
+7432993046716763402.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '4shang': 3, '1shang': 0}",1334
+7433380715758128435.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2562
+7433726018852113702.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2919
+7433755285526695178.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '1shang': 0, '1xia': 0}",1889
+7434116487247449371.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '6xia': 1, '1shang': 0}",3028
+7434163154294197554.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2188
+7434469692581891354.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",1369
+7434811993254677786.md,keep,4下,内容审查→4下（得分6·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 6, '4shang': 5, '6shang': 1}",2171
+7435097228307500325.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '1shang': 0, '1xia': 0}",1429
+7436405252322086194.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '6shang': 1, '1shang': 0}",1890
+7436694687034969370.md,keep,4上,内容审查→4上（得分7·三下簇）,黄,二_认识三角形和四边形（图形性质·跨册）,high,content-audit-douyin,"top_scores={'4shang': 7, '4xia': 5, '3xia': 4}",1891
+7437772918286847269.md,keep,4上,内容审查→4上（得分13·六上簇）,黄,二_认识三角形和四边形（图形性质·跨册）,high,content-audit-douyin,"top_scores={'4shang': 13, '4xia': 5, '6shang': 5}",1871
+7438965374256680229.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1818
+7439326767376043273.md,keep,4下,内容审查→4下（得分6·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 6, '4shang': 5, '1shang': 0}",1680
+7442191861231504667.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",2673
+7442901159725026587.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",1439
+7443790105849892105.md,shell,,,N/A,,high,shell-empty,空壳遗留,141
+7443994299563248934.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7444155705931664678.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7444509735937674534.md,shell,,,N/A,,high,shell-empty,空壳遗留,132
+7444876421597564210.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7445263411681856806.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7445269893651516699.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5shang': 1, '6shang': 1}",2055
+7446748581396057379.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7447103369019215119.md,shell,,,N/A,,high,shell-empty,空壳遗留,136
+7447481885556575540.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7447752413890612507.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",195
+7447845564697382179.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7449364396469488936.md,shell,,,N/A,,high,shell-empty,空壳遗留,146
+7449697792391417122.md,shell,,,N/A,,high,shell-empty,空壳遗留,137
+7449943973495328010.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1427
+7450110409425636635.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7451564430783008015.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7451564662543404328.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7451925323668671759.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7452311225746165044.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7452654873406983464.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",527
+7452717064990493979.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",2509
+7453034941677358388.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",416
+7453742109300968742.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1916
+7454162630626774312.md,shell,,,N/A,,high,shell-empty,空壳遗留,132
+7456770129209085236.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",174
+7457092747313335579.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1218
+7457143999774592308.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",198
+7457509691329973544.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7457867105472482575.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7458932428149640458.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1865
+7459365079184575771.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",998
+7475678341824105755.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1363
+7478649658441518345.md,keep,4上,内容审查→4上（得分6·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '6shang': 1}",2765
+7479312731758153011.md,keep,4下,内容审查→4下（得分9·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 9, '6shang': 6, '4shang': 5}",1775
+7499497147885210880.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",175
+7500502744780885274.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4shang': 5, '4xia': 5}",2463
+7501269871201586466.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7501688253738929448.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7502010475070328116.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",305
+7502414948967910690.md,shell,,,N/A,,high,shell-empty,空壳遗留,146
+7503567879398411520.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7503941610229566772.md,shell,,,N/A,,high,shell-empty,空壳遗留,141
+7505409006913031424.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7506890887827721524.md,shell,,,N/A,,high,shell-empty,空壳遗留,138
+7506891222860385576.md,shell,,,N/A,,high,shell-empty,空壳遗留,135
+7507229861233839360.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7508222795902684479.md,keep,4下,内容审查→4下（得分5·图形/鸡兔簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",2077
+7508655047216139532.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1287
+7508742796934286644.md,shell,,,N/A,,high,shell-empty,空壳遗留,136
+7509039565493357860.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",974
+7510841072860859687.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",179
+7510951555807808780.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",643
+7515003823162592531.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",2403
+7515295282512366889.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1690
+7515597851747044649.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1016
+7517239913310752063.md,keep,4上,内容审查→4上（得分3）,绿,,medium,content-audit-douyin,"top_scores={'4shang': 3, '1shang': 0, '1xia': 0}",1790
+7517278834175544591.md,shell,,,N/A,,high,shell-empty,空壳遗留,131
+7518289818255969547.md,keep,4下,内容审查→4下（得分6·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 6, '4shang': 3, '6shang': 1}",1212
+7518642563579415849.md,keep,4下,内容审查→4下（得分5·小数簇）,红,三_小数乘法,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",1390
+7519083576295197991.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",6861
+7519863404892343563.md,keep,4下,内容审查→4下（得分1）,黄,六_数据的表示和分析,low,content-audit-douyin,"top_scores={'4xia': 1, '6shang': 1, '1shang': 0}",1066
+7548755199479123242.md,keep,4下,内容审查→4下（得分5·小数簇）,红,三_小数乘法,high,content-audit-douyin,"top_scores={'4xia': 5, '1shang': 0, '1xia': 0}",1098
+7550633108284149034.md,keep,4下,内容审查→4下（得分9·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 9, '6shang': 1, '1shang': 0}",1752
+7551068529924705599.md,shell,,,N/A,,high,shell-empty,空壳遗留,145
+7552098182218550547.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4xia': 5, '6shang': 1}",2051
+7552374803161599275.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '1shang': 0, '1xia': 0}",594
+7553202923913547047.md,keep,4下,内容审查→4下（得分5·五上计算簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '5shang': 5, '1shang': 0}",897
+7553568212953795894.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1067
+7556995779551759679.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",185
+7557996539769474363.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 1, '1shang': 0}",2425
+7562753884549598499.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1881
+7566931780616927714.md,keep,4上,内容审查→4上（得分5·方程/倒推簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 4, '6shang': 1}",1520
+7567948297266148968.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1273
+7570148836753083791.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",2475
+7570999735978060480.md,keep,4下,内容审查→4下（得分10·六上簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 10, '6shang': 6, '4shang': 5}",1578
+7577754977135024616.md,keep,4下,内容审查→4下（得分5·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 5, '4shang': 1, '1shang': 0}",2140
+7578344929518570466.md,keep,4下,内容审查→4下（得分7·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 7, '4shang': 5, '6shang': 1}",2167
+7580604344883767887.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",538
+7583146842931449122.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4shang': 5, '4xia': 5}",1537
+7583545634893122868.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4xia': 5, '3shang': 4}",1604
+7586129931756260660.md,keep,4下,内容审查→4下（得分1）,黄,四下综合,low,content-audit-douyin,"top_scores={'4xia': 1, '6shang': 1, '1shang': 0}",998
+7587402549285178678.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,7678
+7587406185332542739.md,shell,,,N/A,,high,shell-empty,空壳遗留,139
+7589565814286601551.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",884
+7590740246519222452.md,keep,4上,内容审查→4上（得分5·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '4xia': 5, '6shang': 1}",1407
+7592176521277160640.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '6shang': 1, '1shang': 0}",2268
+7593961168311400527.md,keep,4下,内容审查→4下（得分5·小数簇）,黄,四下综合,high,content-audit-douyin,"top_scores={'4xia': 5, '6shang': 1, '1shang': 0}",1012
+7594433304969125288.md,keep,4上,内容审查→4上（得分6·小数簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '3shang': 1}",1468
+7594810532076080227.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1636
+7595191476877199266.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",718
+7595876245775161167.md,keep,4上,内容审查→4上（得分11·六上簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 11, '5shang': 7, '6shang': 6}",2567
+7598017165011750888.md,keep,5上,内容审查→5上（得分6·五上面积/应用簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '1shang': 0, '1xia': 0}",1129
+7598733968859883171.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '6shang': 1, '1shang': 0}",672
+7598842300185236642.md,keep,5上,人教五上·植树/间隔（北师大4上无此课）,红,,high,hard-5shang-jianshu,,2016
+7603273195331921999.md,keep,4下,内容审查→4下（得分11·图形/鸡兔簇）,黄,二_认识三角形和四边形,high,content-audit-douyin,"top_scores={'4xia': 11, '1shang': 0, '1xia': 0}",1432
+7610305627064349172.md,keep,4下,内容审查→4下（得分6·方程/倒推簇）,绿,四_观察物体,high,content-audit-douyin,"top_scores={'4xia': 6, '4shang': 1, '6shang': 1}",2128
+7614721633593348480.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '1shang': 0, '1xia': 0}",1248
+7615540109018232975.md,keep,4上,内容审查→4上（得分7·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '5shang': 7, '4xia': 5}",1190
+7615951799208161507.md,keep,5上,内容审查→5上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4xia': 5, '6shang': 5}",2784
+7616660900737617487.md,keep,4上,内容审查→4上（得分7·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 7, '5shang': 5, '6shang': 1}",2515
+7617329134079742370.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4xia': 5, '4shang': 3}",1666
+7618187672083442304.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1436
+7620440989379976099.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,2025
+7621117401396701608.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '6shang': 1, '1shang': 0}",1222
+7621566879388076131.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '6shang': 1, '1shang': 0}",1457
+7621568203600878947.md,keep,5下,内容审查→5下（得分1）,绿,,low,content-audit-douyin,"top_scores={'5xia': 1, '6shang': 1, '1shang': 0}",2086
+7623032528962489268.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1611
+7623374628644596899.md,keep,5下,内容审查→5下（得分2）,绿,,medium,content-audit-douyin,"top_scores={'5xia': 2, '6shang': 1, '1shang': 0}",1405
+7623788784917137600.md,keep,3上,拼图形周长变化,绿,五_周长,high,hard-3shang-zhouchang,,1453
+7624151050861283471.md,keep,3下,内容审查→3下（得分4·三下簇）,绿,,high,content-audit-douyin,"top_scores={'3xia': 4, '5xia': 2, '1shang': 0}",1938
+7625116541260043746.md,keep,5下,内容审查→5下（得分2）,绿,,medium,content-audit-douyin,"top_scores={'5xia': 2, '6shang': 1, '1shang': 0}",1403
+7626341465212109800.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '5xia': 1, '6shang': 1}",1444
+7627511063677297551.md,keep,5下,内容审查→5下（得分3）,绿,,medium,content-audit-douyin,"top_scores={'5xia': 3, '6shang': 1, '1shang': 0}",1126
+7627861523281194164.md,keep,3上,内容审查→3上（得分1）,绿,,low,content-audit-douyin,"top_scores={'3shang': 1, '5xia': 1, '6shang': 1}",1024
+7628195011540142050.md,keep,4下,内容审查→4下（得分5·小数簇）,绿,四_观察物体,high,content-audit-douyin,"top_scores={'4xia': 5, '3shang': 1, '5xia': 1}",1740
+7628571911832142053.md,keep,5下,内容审查→5下（得分3）,绿,,medium,content-audit-douyin,"top_scores={'5xia': 3, '3shang': 1, '1shang': 0}",1192
+7628957945610742760.md,keep,6上,内容审查→6上（得分5·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 5, '5xia': 2, '5shang': 1}",996
+7629374481577105512.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '3xia': 4, '5xia': 2}",1554
+7629613704297175656.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1447
+7630767291143348450.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1106
+7631173937074674383.md,keep,6上,内容审查→6上（得分6·六上簇）,绿,,high,content-audit-douyin,"top_scores={'6shang': 6, '4xia': 5, '3shang': 4}",1713
+7631870199789473472.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",731
+7632299084237773474.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1633
+7632592825951791459.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4shang': 4, '6shang': 2}",2009
+7633368949148788453.md,keep,5下,内容审查→5下（得分3）,绿,,medium,content-audit-douyin,"top_scores={'5xia': 3, '6shang': 1, '1shang': 0}",1013
+7633750508935257593.md,keep,4上,内容审查→4上（得分5·运算/除法簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '6shang': 1, '1shang': 0}",1639
+7634468937162615162.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1038
+7636242544447799119.md,keep,4下,内容审查→4下（得分6·方程/倒推簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 6, '5xia': 2, '3shang': 1}",1271
+7636761688666498405.md,keep,5下,内容审查→5下（得分2）,绿,,medium,content-audit-douyin,"top_scores={'5xia': 2, '3shang': 1, '5shang': 1}",1170
+7636767279988884032.md,keep,4上,内容审查→4上（得分5·线与角簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 5, '1shang': 0, '1xia': 0}",1218
+7637062639256929679.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '4shang': 3, '1shang': 0}",1026
+7637483128315550971.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1571
+7637829070227564709.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1366
+7638569490720837967.md,keep,5上,内容审查→5上（得分6·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 6, '1shang': 0, '1xia': 0}",1500
+7638984621443270115.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",594
+7639309838580974208.md,keep,5上,内容审查→5上（得分5·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 5, '6shang': 1, '1shang': 0}",1907
+7640099764353222245.md,keep,5上,内容审查→5上（得分7·五上计算簇）,绿,,high,content-audit-douyin,"top_scores={'5shang': 7, '4xia': 5, '6shang': 1}",2427
+7641170722924257890.md,keep,6上,内容审查→6上（得分1）,绿,,low,content-audit-douyin,"top_scores={'6shang': 1, '1shang': 0, '1xia': 0}",1302
+7642316721160889807.md,keep,4上,内容审查→4上（得分6·三下簇）,绿,,high,content-audit-douyin,"top_scores={'4shang': 6, '4xia': 5, '3xia': 4}",2282
+7643369431075539619.md,keep,4下,内容审查→4下（得分6·五上计算簇）,红,五_认识方程,high,content-audit-douyin,"top_scores={'4xia': 6, '5shang': 6, '6shang': 1}",2186
+7644508603194119586.md,keep,5上,内容审查→5上（得分1）,绿,,low,content-audit-douyin,"top_scores={'5shang': 1, '6shang': 1, '1shang': 0}",2518
+7644872508948907700.md,keep,4上,内容审查→4上（得分1·默认4上）,绿,,low,content-audit-douyin,"top_scores={'1shang': 0, '1xia': 0, '2shang': 0}",1665
