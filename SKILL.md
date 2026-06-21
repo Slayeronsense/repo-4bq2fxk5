@@ -83,7 +83,7 @@ description: |
 **高相似命中时的 Step 4 规则**（与 A 流程**同一四块格式**）：
 
 1. **讲法优先**：`adapted_script` 的小太阳原话/节奏 → 填入各步【老师说】【板书/操作】；**不**整体改写成波利亚口吻。
-2. **格式统一**：registry 旧条目多为「### N. + 段落」→ 运行时拆成**四块**（见 Step 4 模板）；旧文无易卡处，用 Step 0 **gap 易卡池** + yaml `preset_stuck_from_gap` 补【此处易卡】。
+2. **格式统一**：registry 旧条目多为「### N. + 段落」→ 运行时拆成**四块**（见 Step 4 模板）；旧文无易卡处，**以 Step 0 gap 易卡池为主**补【此处易卡】，yaml `preset_stuck_from_gap` 为选配补充（缺失则仅用 gap，不留空）。
 3. **结构操作全步选配**：七步均按 `step_op_map` + 题型写入【结构操作】（0–2 个 op_id）；**不**因 registry 命中而跳过某步的【结构操作】。
 4. **禁止**：空泛「你怎么想的」；直接点名超纲公式（见 `polya-anti-patterns.md`）。op_id **只**出现在【结构操作】行，不出现在【老师说】口播里。
 
@@ -112,12 +112,14 @@ description: |
 > **位置**：下面 `## 讲题脚本` 整块即交付物；上面 `学情边界 / 题型与方法 / 表征路径` 为前置说明。  
 > **权威格式**：`references/research/02-teaching-flow.md` §Step 4 输出格式。
 
+> **框架说明**：7 步为「波利亚启发式词汇 + Schoenfeld 式试错换路」混合框架；op_id 是借波利亚的标签，非纯波利亚相位。`CHECK_RESULT` 只在第 7 步（检验），第 6 步归一用 `USE_RESULT`。
+
 **生成逻辑**（每步四块内嵌：小太阳主 + 波利亚选配 + gap 易卡）：
 
 1. 读 `polya-structural-ops.yaml` + `polya-anti-patterns.md`
 2. **小太阳主**：Step 3 主方法 +（若 registry 命中）`adapted_script` → 渲染【老师说】【板书/操作】
 3. **波利亚选配**：Step 0 gap + Step 2 题型 + `step_op_map` → 每步 0–2 个 op → 写入【结构操作】（yaml 的 `id`，如 `SEP_COND`、`RELATED_PROB`）
-4. **易卡**：Step 0 gap 易卡池 + op 的 `preset_stuck_from_gap` → 合并写成【此处易卡】预防性讲法（非事后补救）
+4. **易卡**：以 Step 0 **gap 易卡池**（仓内学情边界，权威来源）为主写【此处易卡】预防性讲法（非事后补救）；op 的 `preset_stuck_from_gap`（在 polya yaml）仅作选配补充，缺失时不影响——【此处易卡】不得留空
 5. **禁止**：anti_patterns 列中的说法；op_id 混入【老师说】口播
 
 正课 7 步；**每步固定四块**：

@@ -2,12 +2,14 @@
 
 ## 正课习题（标准 7 步）
 
+> **框架说明**：本 7 步是「波利亚启发式词汇 + Schoenfeld 式『试错→明说行不通→换路』」的**混合框架**。各步的 op_id（`SEP_COND`、`RELATED_PROB`…）是借用波利亚《怎样解题》的启发式作**标签**，**不**声称本流程是纯波利亚的线性相位（理解→拟定计划→执行→回顾）。
+
 1. **读题/理信息**：板书两行或多列。**结构操作**：`SEP_COND`、`SEP_DATA`、`LOOK_UNKNOWN`。
 2. **找联系**：引导到单价/每份价/不变量。**结构操作**：`RELATED_PROB`。
 3. **试第一条路**：常先走学生想到的；**算不下去要明说**。**结构操作**：`AUX_PROB`、`AUX_ELEM`。
 4. **换路**：打包 / 画图 / 列表 / 转化等。**结构操作**：`RELATED_PROB`、`AUX_PROB`。
 5. **第二、第三条路**：2–3 种；比较算式形态。**结构操作**：`DERIVE_DIFF`。
-6. **归一**：「本质一样」。**结构操作**：`USE_RESULT`、`CHECK_RESULT`。
+6. **归一**：「本质一样」。**结构操作**：`USE_RESULT`（多法归一、可迁移；检验留第 7 步）。
 7. **收尾**：易错点再点一次。**结构操作**：`CHECK_RESULT`。
 
 ### Step 4 输出格式（讲题脚本 · 权威模板）
@@ -28,11 +30,13 @@
 
 1. 小太阳讲法（Step 3 方法 / registry `adapted_script`）→ 【老师说】【板书/操作】
 2. `polya-structural-ops.yaml` 的 `step_op_map` + 题型 → 【结构操作】
-3. Step 0 `gap` + op 的 `preset_stuck_from_gap` → 【此处易卡】
+3. Step 0 `gap`（主，仓内）+ op 的 `preset_stuck_from_gap`（选配，缺失可省）→ 【此处易卡】（不得留空）
 
 **禁止**：空泛「你怎么想的」；op_id 写入【老师说】；见 `polya-anti-patterns.md`。
 
 ### 7 步 ↔ 结构操作速查
+
+> **单一真理源**：step→op 的权威定义在 `polya-structural-ops.yaml` 的 `step_op_map`；本表仅为速查镜像，冲突以 yaml 为准。
 
 | 7 步 | 优先 ops |
 |------|----------|
@@ -41,7 +45,7 @@
 | 3 试第一条路 | AUX_PROB, AUX_ELEM |
 | 4 换路 | RELATED_PROB, AUX_PROB |
 | 5 其他方法 | DERIVE_DIFF |
-| 6 归一 | USE_RESULT, CHECK_RESULT |
+| 6 归一 | USE_RESULT |
 | 7 易错 | CHECK_RESULT |
 
 ## 概念课（课堂实录型）
